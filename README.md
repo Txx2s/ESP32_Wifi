@@ -11,7 +11,7 @@ The Code:
 
 ![image](https://user-images.githubusercontent.com/108034996/180244279-46d965b8-e595-4b69-b6fc-9b3eb717d02e.png)
 
-After running the code, the Wi-Fi network will appear in the place , its name" Turki er".
+After running the code, the Wi-Fi network will appear in the place , its name" Turki ar".
 
 Then open the following link........192.186.4.1.
 
